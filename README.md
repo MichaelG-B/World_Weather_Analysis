@@ -21,6 +21,6 @@ Tourism and travel have always been a popular escape to many people, offering a 
 - Based on user input in regards to max and minimum temperatures of the destination they would like to travel too, we created a map with markers of cities that would be within their desired weather conditions.
 - ![WeatherPy_vacation_map](Weather_Database/WeatherPy_vacation_map.png)
 ## Vacation Itenerary
--Utilizing Google Directions API, a sample travel itinerary for Spain was created for a trip from Lugo to Utiel.
+- Utilizing Google Directions API, a sample travel itinerary for Spain was created for a trip from Lugo to Utiel.
 ![WeatherPy_vacation_map](Weather_Database/WeatherPy_travel_map.png)
 ![WeatherPy_vacation_map_markers](Weather_Database/WeatherPy_travel_map_markers.png)
